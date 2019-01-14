@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RainProbability matches snapshot 1`] = `
+<RainProbability
+  probability={20}
+>
+  <div
+    className="rain"
+  >
+    <img
+      alt="rain probability 20"
+      className="rain__icon"
+      height="24"
+      src="rain-probality.svg"
+      width="24"
+    />
+    <span
+      className="rain__probability"
+    >
+      20%
+    </span>
+  </div>
+</RainProbability>
+`;
